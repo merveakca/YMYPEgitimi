@@ -31,6 +31,8 @@ x--;
 
 string name = "Taner" + " " + "Saydam"; //Taner Saydam
 string name2 = $"{name} 34 yaşında bir eğitmen"; // ==> Taner Saydam 34 yaşında bir eğitmen
+//@ operatör  ters bölü işaretini kullanmamızı sağlıyor;
+string url = @"http:\"; //==> http:\ 
 
 var result = name + 2; //Rakam + string birleştirme işlemi yapar ==> Taner Saydam2
 
