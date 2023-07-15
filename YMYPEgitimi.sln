@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Operatorler", "03.Operat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SartBloglari", "04.SartBloglari\04.SartBloglari.csproj", "{FFD9889D-DD98-47F3-8485-D3B889A4EF6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Listeler", "05.Listeler\05.Listeler.csproj", "{D6E96B4B-D206-4BE8-ACCC-6445BA2CFBB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Donguler", "06.Donguler\06.Donguler.csproj", "{23677059-3C9C-4E37-8755-BECFF861160A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{FFD9889D-DD98-47F3-8485-D3B889A4EF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFD9889D-DD98-47F3-8485-D3B889A4EF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFD9889D-DD98-47F3-8485-D3B889A4EF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E96B4B-D206-4BE8-ACCC-6445BA2CFBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E96B4B-D206-4BE8-ACCC-6445BA2CFBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E96B4B-D206-4BE8-ACCC-6445BA2CFBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E96B4B-D206-4BE8-ACCC-6445BA2CFBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23677059-3C9C-4E37-8755-BECFF861160A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23677059-3C9C-4E37-8755-BECFF861160A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23677059-3C9C-4E37-8755-BECFF861160A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23677059-3C9C-4E37-8755-BECFF861160A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
